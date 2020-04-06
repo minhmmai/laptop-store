@@ -40,7 +40,7 @@ const server = http.createServer((req, res) => {
     }
 });
 
-server.listen(1337, '127.0.0.1', () => {
+server.listen(3000, 'localhost', () => {
     console.log('Listening for requests now');
 });
 

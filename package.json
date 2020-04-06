@@ -1,7 +1,6 @@
 {
   "name": "laptop-store",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "nodemon": "^2.0.2"
@@ -19,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/minhmmai/laptop-store/issues"
   },
-  "homepage": "https://github.com/minhmmai/laptop-store#readme"
+  "homepage": "https://github.com/minhmmai/laptop-store#readme",
+  "description": ""
 }
