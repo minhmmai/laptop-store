@@ -5,5 +5,4 @@ git clone https://github.com/minhmmai/laptop-store.git
 ### 2. To start the project, "cd" to the project directory and run:
 node index.js
 
-Open your brower and access the app at [http://localhost:3000/] localhost:3000
-
+Open your brower and access the app at http://localhost:3000/
